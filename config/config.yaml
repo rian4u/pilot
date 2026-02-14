@@ -1,0 +1,7 @@
+app:
+  name: pilot
+  env: dev
+
+logging:
+  level: INFO
+  file: logs/app.log
