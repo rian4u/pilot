@@ -1,0 +1,16 @@
+{
+  "exam_metadata": {
+    "exam_type": "세무사",
+    "year": 2024,
+    "subject": "회계학"
+  },
+  "questions": [
+    {
+      "id": "CTA_2024_ACC_01",
+      "question": "재무보고를 위한 개념체계에 따른 자산의 정의로 옳은 것은?",
+      "options": ["1번 선택지", "2번 선택지", "3번 선택지", "4번 선택지", "5번 선택지"],
+      "answer": 1,
+      "concept_id": "ACC_CONCEPT_01"
+    }
+  ]
+}

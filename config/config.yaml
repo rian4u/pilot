@@ -5,3 +5,8 @@ app:
 logging:
   level: INFO
   file: logs/app.log
+
+paths:
+  input_dir: "data/input"
+  output_dir: "data/output"
+  archive_dir: "data/archive"
